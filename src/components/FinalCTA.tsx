@@ -2,7 +2,7 @@ import { MessageCircle } from "lucide-react";
 import { Button } from "./ui/button";
 
 const FinalCTA = () => {
-  const whatsappLink = "https://wa.me/5521980079983?text=Olá Calina! Quero aparecer no Google";
+  const whatsappLink = "https://wa.me/5500000000000?text=Olá Calina! Quero aparecer no Google";
 
   return (
     <section className="py-24 bg-background relative overflow-hidden">
