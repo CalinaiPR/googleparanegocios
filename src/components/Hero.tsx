@@ -2,7 +2,7 @@ import { Search, ArrowRight } from "lucide-react";
 import { Button } from "./ui/button";
 
 const Hero = () => {
-  const whatsappLink = "https://wa.me/5500000000000?text=Olá! Quero aparecer no Google";
+  const whatsappLink = "https://wa.me/5521980079983?text=Olá! Quero aparecer no Google";
 
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-background">
